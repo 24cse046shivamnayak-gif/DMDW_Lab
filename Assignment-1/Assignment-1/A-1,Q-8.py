@@ -1,5 +1,5 @@
 f1=open("file1.txt","w")
-f1.write("jashobanta sasmal \n")
+f1.write("shivam nayak \n")
 f1.write("python file")
 f1.close()
 f1=open("file1.txt","r")
